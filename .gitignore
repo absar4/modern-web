@@ -1,0 +1,15 @@
+# Unnessary Files Needed to be ignored:
+assets/vendor/aos/aos.cjs.js
+assets/vendor/aos/aos.esm.js
+assets/vendor/aos/aos.js.map
+assets/vendor/purecounter/purecounter_vanilla.js.map
+assets/vendor/swiper/swiper-bundle.min.js.map
+Readme.txt
+
+
+# Folders no need
+assets/scss
+forms/
+
+
+
